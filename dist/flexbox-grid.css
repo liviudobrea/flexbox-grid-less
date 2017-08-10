@@ -962,7 +962,7 @@
     margin-left: 100%;
   }
 }
-@media (min-width: 1600) {
+@media (min-width: 1600px) {
   .row--ul-top {
     -webkit-box-align: start;
         -ms-flex-align: start;
@@ -1144,7 +1144,7 @@
     margin-left: 100%;
   }
 }
-@media (min-width: 1919) {
+@media (min-width: 1920px) {
   .row--hd-top {
     -webkit-box-align: start;
         -ms-flex-align: start;
